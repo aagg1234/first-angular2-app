@@ -14,3 +14,17 @@ The typescript compiler needs some configuration that is setup in the following 
 ```
 tsconfig.json
 ```
+The executable 
+```
+./node_modules/bin/tsc --inputDir src --outhDir dist
+```
+
+## Webpack
+Installation
+```
+npm install --save-dev webpack
+```
+Webpack cannot directly process typescript files, so there must be used a specific loader for them.
+```
+npm install --save-dev ts-loader
+```
