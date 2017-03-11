@@ -1,6 +1,8 @@
 {
   "name": "first-angular2-app",
   "version": "0.0.1",
+  "scripts": {
+  },
   "dependencies": {
     "@angular/common": "2.0.1",
     "@angular/compiler": "2.0.1", // template compiler for components
