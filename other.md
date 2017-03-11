@@ -35,7 +35,7 @@ GitKraken:
 [https://www.gitkraken.com/]()
 
 ## ConEmu
-ConEmu is a console emulator with tabs. It is very handy to open multiple command prompts, bashes or other shells.   
+ConEmu is a console emulator with tabs. It is very handy to open multiple command prompts, bashes or other shells on one window seperated by tabs.   
 It is possible to download an installer or a portable version.
 
 [http://conemu.github.io/]()
