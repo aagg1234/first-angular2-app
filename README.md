@@ -28,3 +28,6 @@ Webpack cannot directly process typescript files, so there must be used a specif
 ```
 npm install --save-dev ts-loader
 ```
+
+## Link to tutorials
+[https://www.youtube.com/channel/UC6nvw2BnNYSKQoffXQtxICQ]
