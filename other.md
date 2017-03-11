@@ -31,5 +31,5 @@ $ git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.e
 List of available Git GUI Clients:  
 [https://git-scm.com/downloads/guis]()
 
-GitKraken
+GitKraken:
 [https://www.gitkraken.com/]()
