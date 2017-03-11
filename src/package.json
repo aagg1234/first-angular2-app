@@ -2,6 +2,7 @@
   "name": "first-angular2-app",
   "version": "0.0.1",
   "scripts": {
+    "postinstall": "" // called automatically after 'npm install'
   },
   "dependencies": {
     "@angular/common": "2.0.1",
