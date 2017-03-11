@@ -33,3 +33,9 @@ List of available Git GUI Clients:
 
 GitKraken:
 [https://www.gitkraken.com/]()
+
+## ConEmu
+ConEmu is a console emulator with tabs. It is very handy to open multiple command prompts, bashes or other shells.   
+It is possible to download an installer or a portable version.
+
+[http://conemu.github.io/]()
