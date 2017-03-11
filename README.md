@@ -30,4 +30,4 @@ npm install --save-dev ts-loader
 ```
 
 ## Link to tutorials
-[https://www.youtube.com/channel/UC6nvw2BnNYSKQoffXQtxICQ]
+[https://www.youtube.com/channel/UC6nvw2BnNYSKQoffXQtxICQ]()
