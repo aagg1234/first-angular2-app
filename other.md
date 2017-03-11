@@ -1,14 +1,15 @@
 ## Git
 
-Download Git Windows Setup:
-[https://git-scm.com/download/win]()
+Download Git Windows Setup from one of the following links:
+
+[https://git-scm.com/download/win]()  
 [https://git-for-windows.github.io/]()
 
-For example: *Git-2.12.0-64-bit.exe*
+The downloaded file looks like for example: *Git-2.12.0-64-bit.exe*
 
-During installation you can choose either to make available git commands from Windows Command Prompt (affects the PATH variable) or only from the Git bash.
+The installation includes a **Git bash** and **GUI client** (several others can be installed). During installation you can choose either to make available git commands from Windows Command Prompt (affects the PATH variable) or only from the Git bash.
 
-First time setup:
+First time setup:  
 [https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup]()
 
 ```
@@ -25,6 +26,6 @@ On a 64-bit machine:
 $ git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -nosession"
 ```
 
-List of available Git GUI Clients:
+List of available Git GUI Clients:  
 [https://git-scm.com/downloads/guis]()
 
