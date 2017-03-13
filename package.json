@@ -1,8 +1,11 @@
 {
   "name": "first-angular2-app",
   "version": "0.0.1",
+  "config": {
+    "port": "9000"
+  },
   "scripts": {
-    "start": "",
+    "start": "webpack-dev-server --port %npm_package_config_port% --inline --progress --profile --colors --watch --content-base src/",
     "build": "webpack --progress"
   },
   "dependencies": {
@@ -20,9 +23,8 @@
     "zone.js": "^0.7.2"
   },
   "devDependencies": {
+    "html-webpack-plugin": "^2.28.0",
     "ts-loader": "^2.0.1",
-    "tslint": "^4.5.1",
-    "tslint-loader": "^3.4.3",
     "typescript": "^2.2.1",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.4.1"
